@@ -4,6 +4,7 @@ Telegram bot, which is designed to make life easier for the user.
 
 Thanks to this bot, the user can:
 -> Generate a complex password of any length;
+
 -> Shorten links to various resources;
 -> Roll dice, which can help when making decisions or when playing with friends;
 -> Generate QR code;
