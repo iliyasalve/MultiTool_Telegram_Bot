@@ -1,1 +1,1 @@
-token = "YOUR_TELEGRAM_KEY"
+token = "YOUR_TELEGRAM_API_KEY"
