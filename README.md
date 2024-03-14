@@ -23,7 +23,7 @@ Thanks to this bot, the user can:
 >
 > [opencv-python](https://pypi.org/project/opencv-python/) library is used to decrypt Qr Code
 
-[!IMPORTANT]
+> [!IMPORTANT]
 > All necessary libraries that require installation are stored in the requirements.txt file.
 
 > [!NOTE]
@@ -54,7 +54,7 @@ Grâce à ce bot, l'utilisateur peut :
 >
 > La bibliothèque [opencv-python](https://pypi.org/project/opencv-python/) est utilisée pour raccourcir les liens
 
-[!IMPORTANT]
+> [!IMPORTANT]
 > Toutes les bibliothèques nécessaires qui nécessitent une installation sont stockées dans le fichier requirements.txt
 
 > [!NOTE]
