@@ -17,11 +17,11 @@ Thanks to this bot, the user can:
 > [!TIP]
 > Telegram bot written using the library [telebot](https://pypi.org/project/pyTelegramBotAPI/)
 >
-> [pyshorteners](https://pypi.org/project/pyshorteners/) library is used to shorten links
+> The [pyshorteners](https://pypi.org/project/pyshorteners/) library is used to shorten links
 >
-> [qrcode](https://pypi.org/project/qrcode/) library is used to generate Qr Code
+> The [qrcode](https://pypi.org/project/qrcode/) library is used to generate Qr Code
 >
-> [opencv-python](https://pypi.org/project/opencv-python/) library is used to decrypt Qr Code
+> The [opencv-python](https://pypi.org/project/opencv-python/) library is used to decrypt Qr Code
 
 > [!IMPORTANT]
 > All necessary libraries that require installation are stored in the requirements.txt file.
