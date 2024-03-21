@@ -26,6 +26,9 @@ Thanks to this bot, the user can:
 > [!IMPORTANT]
 > All necessary libraries that require installation are stored in the requirements.txt file.
 
+> [!WARNING]
+> Don't forget to add your telegram token to the "config.py" file!
+
 > [!NOTE]
 > This code ran and worked correctly on Windows 10 and Python version 3.12.1
 
@@ -56,6 +59,9 @@ Grâce à ce bot, l'utilisateur peut :
 
 > [!IMPORTANT]
 > Toutes les bibliothèques nécessaires qui nécessitent une installation sont stockées dans le fichier requirements.txt
+
+> [!WARNING]
+> N'oubliez pas d'ajouter votre token de Telegram au fichier "config.py"!
 
 > [!NOTE]
 > Ce code s'est exécuté et a fonctionné correctement sous Windows 10 et Python version 3.12.1
